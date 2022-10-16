@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/checking-account-app/static/css/main.964fdded.css",
-    "main.js": "/checking-account-app/static/js/main.d1793e84.js",
+    "main.css": "/checking-account-app/static/css/main.b5e42b65.css",
+    "main.js": "/checking-account-app/static/js/main.27a7bf9f.js",
     "static/js/787.5a709304.chunk.js": "/checking-account-app/static/js/787.5a709304.chunk.js",
     "index.html": "/checking-account-app/index.html",
-    "main.964fdded.css.map": "/checking-account-app/static/css/main.964fdded.css.map",
-    "main.d1793e84.js.map": "/checking-account-app/static/js/main.d1793e84.js.map",
+    "main.b5e42b65.css.map": "/checking-account-app/static/css/main.b5e42b65.css.map",
+    "main.27a7bf9f.js.map": "/checking-account-app/static/js/main.27a7bf9f.js.map",
     "787.5a709304.chunk.js.map": "/checking-account-app/static/js/787.5a709304.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.964fdded.css",
-    "static/js/main.d1793e84.js"
+    "static/css/main.b5e42b65.css",
+    "static/js/main.27a7bf9f.js"
   ]
 }
